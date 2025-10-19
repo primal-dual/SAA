@@ -158,3 +158,292 @@ Elapsed time is 0.078574 seconds.
 Eval n=500, NN=10000 | out-of-sample obj = 1.7273005 | rep = 3
 Elapsed time is 0.075784 seconds.
 Eval n=500, NN=10000 | out-of-sample obj = 1.7975911 | rep = 4
+Elapsed time is 0.074292 seconds.
+Eval n=500, NN=10000 | out-of-sample obj = 1.809459 | rep = 5
+Elapsed time is 0.125651 seconds.
+Average eval for n=500, N=400 over 5 reps = 1.7825392
+Eval n=500, NN=10000 | out-of-sample obj = 1.7334615 | rep = 1
+Elapsed time is 0.122702 seconds.
+Eval n=500, NN=10000 | out-of-sample obj = 1.8509336 | rep = 2
+Elapsed time is 0.126646 seconds.
+Eval n=500, NN=10000 | out-of-sample obj = 1.8116091 | rep = 3
+Elapsed time is 0.072407 seconds.
+Eval n=500, NN=10000 | out-of-sample obj = 1.8148552 | rep = 4
+Elapsed time is 0.081761 seconds.
+Eval n=500, NN=10000 | out-of-sample obj = 1.7261921 | rep = 5
+Elapsed time is 0.074061 seconds.
+Average eval for n=500, N=600 over 5 reps = 1.7874103
+Eval n=600, NN=10000 | out-of-sample obj = 1.8258266 | rep = 1
+Elapsed time is 0.088861 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.7631867 | rep = 2
+Elapsed time is 0.104771 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.8662159 | rep = 3
+Elapsed time is 0.090749 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.796627 | rep = 4
+Elapsed time is 0.082576 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.8652899 | rep = 5
+Elapsed time is 0.090214 seconds.
+Average eval for n=600, N=200 over 5 reps = 1.8234292
+Eval n=600, NN=10000 | out-of-sample obj = 1.7348233 | rep = 1
+Elapsed time is 0.090868 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.7334431 | rep = 2
+Elapsed time is 0.089139 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.7686635 | rep = 3
+Elapsed time is 0.088445 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.7488938 | rep = 4
+Elapsed time is 0.079047 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.7645061 | rep = 5
+Elapsed time is 0.075188 seconds.
+Average eval for n=600, N=400 over 5 reps = 1.750066
+Eval n=600, NN=10000 | out-of-sample obj = 1.8955798 | rep = 1
+Elapsed time is 0.084038 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.789409 | rep = 2
+Elapsed time is 0.092513 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.747187 | rep = 3
+Elapsed time is 0.080568 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.8255546 | rep = 4
+Elapsed time is 0.087478 seconds.
+Eval n=600, NN=10000 | out-of-sample obj = 1.8470388 | rep = 5
+Elapsed time is 0.091919 seconds.
+Average eval for n=600, N=600 over 5 reps = 1.8209538
+Eval n=700, NN=10000 | out-of-sample obj = 1.9096824 | rep = 1
+Elapsed time is 0.102439 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7314065 | rep = 2
+Elapsed time is 0.092068 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7840455 | rep = 3
+Elapsed time is 0.199805 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.9075718 | rep = 4
+Elapsed time is 0.607135 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.8966727 | rep = 5
+Elapsed time is 0.122571 seconds.
+Average eval for n=700, N=200 over 5 reps = 1.8458758
+Eval n=700, NN=10000 | out-of-sample obj = 1.8885315 | rep = 1
+Elapsed time is 0.158414 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.8552978 | rep = 2
+Elapsed time is 0.112055 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.9208094 | rep = 3
+Elapsed time is 0.251612 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7832792 | rep = 4
+Elapsed time is 0.102578 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7357526 | rep = 5
+Elapsed time is 0.137363 seconds.
+Average eval for n=700, N=400 over 5 reps = 1.8367341
+Eval n=700, NN=10000 | out-of-sample obj = 1.7587857 | rep = 1
+Elapsed time is 0.123247 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7478965 | rep = 2
+Elapsed time is 0.160286 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7813346 | rep = 3
+Elapsed time is 0.174207 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.7307022 | rep = 4
+Elapsed time is 0.135224 seconds.
+Eval n=700, NN=10000 | out-of-sample obj = 1.9169194 | rep = 5
+Elapsed time is 0.114996 seconds.
+Average eval for n=700, N=600 over 5 reps = 1.7871277
+Eval n=800, NN=10000 | out-of-sample obj = 1.7168868 | rep = 1
+Elapsed time is 0.122338 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.9561138 | rep = 2
+Elapsed time is 0.112769 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.874978 | rep = 3
+Elapsed time is 0.131228 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.828657 | rep = 4
+Elapsed time is 0.119654 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.8269565 | rep = 5
+Elapsed time is 0.125331 seconds.
+Average eval for n=800, N=200 over 5 reps = 1.8407184
+Eval n=800, NN=10000 | out-of-sample obj = 1.7753332 | rep = 1
+Elapsed time is 0.130511 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.9288956 | rep = 2
+Elapsed time is 0.129085 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.8952057 | rep = 3
+Elapsed time is 0.123314 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.9162195 | rep = 4
+Elapsed time is 0.138104 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.7205117 | rep = 5
+Elapsed time is 0.134432 seconds.
+Average eval for n=800, N=400 over 5 reps = 1.8472331
+Eval n=800, NN=10000 | out-of-sample obj = 1.92682 | rep = 1
+Elapsed time is 0.128034 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.8785005 | rep = 2
+Elapsed time is 0.108247 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.779123 | rep = 3
+Elapsed time is 0.104132 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.7801734 | rep = 4
+Elapsed time is 0.110868 seconds.
+Eval n=800, NN=10000 | out-of-sample obj = 1.9245724 | rep = 5
+Elapsed time is 0.554825 seconds.
+Average eval for n=800, N=600 over 5 reps = 1.8578378
+Eval n=900, NN=10000 | out-of-sample obj = 1.8030138 | rep = 1
+Elapsed time is 0.126544 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.7824216 | rep = 2
+Elapsed time is 0.126989 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.9445198 | rep = 3
+Elapsed time is 0.123831 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.8291086 | rep = 4
+Elapsed time is 0.124435 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.9170387 | rep = 5
+Elapsed time is 0.134363 seconds.
+Average eval for n=900, N=200 over 5 reps = 1.8552205
+Eval n=900, NN=10000 | out-of-sample obj = 1.7606264 | rep = 1
+Elapsed time is 0.130984 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.86896 | rep = 2
+Elapsed time is 0.125536 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.7988899 | rep = 3
+Elapsed time is 0.157071 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.915586 | rep = 4
+Elapsed time is 0.129183 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.9562727 | rep = 5
+Elapsed time is 0.172868 seconds.
+Average eval for n=900, N=400 over 5 reps = 1.860067
+Eval n=900, NN=10000 | out-of-sample obj = 1.9197154 | rep = 1
+Elapsed time is 0.142790 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.7698749 | rep = 2
+Elapsed time is 0.428953 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.9370528 | rep = 3
+Elapsed time is 0.155601 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.8323618 | rep = 4
+Elapsed time is 0.134637 seconds.
+Eval n=900, NN=10000 | out-of-sample obj = 1.8852184 | rep = 5
+Elapsed time is 0.130692 seconds.
+Average eval for n=900, N=600 over 5 reps = 1.8688447
+Eval n=1000, NN=10000 | out-of-sample obj = 1.9892449 | rep = 1
+Elapsed time is 0.139934 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7795463 | rep = 2
+Elapsed time is 0.143122 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.9449069 | rep = 3
+Elapsed time is 0.141686 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7765204 | rep = 4
+Elapsed time is 0.140754 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8714829 | rep = 5
+Elapsed time is 0.161342 seconds.
+Average eval for n=1000, N=200 over 5 reps = 1.8723403
+Eval n=1000, NN=10000 | out-of-sample obj = 2.0180965 | rep = 1
+Elapsed time is 0.144432 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7297624 | rep = 2
+Elapsed time is 0.179238 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8190794 | rep = 3
+Elapsed time is 0.173089 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.9120006 | rep = 4
+Elapsed time is 0.148871 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8618534 | rep = 5
+Elapsed time is 0.145038 seconds.
+Average eval for n=1000, N=400 over 5 reps = 1.8681585
+Eval n=1000, NN=10000 | out-of-sample obj = 1.9646046 | rep = 1
+Elapsed time is 0.147699 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.9430633 | rep = 2
+Elapsed time is 0.181721 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.868919 | rep = 3
+Elapsed time is 0.187901 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8587037 | rep = 4
+Elapsed time is 0.215131 seconds.
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8367783 | rep = 5
+Elapsed time is 0.228398 seconds.
+Average eval for n=1000, N=600 over 5 reps = 1.8944138
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7161708 | rep = 1
+Elapsed time is 0.295016 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8790683 | rep = 2
+Elapsed time is 0.262042 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7309914 | rep = 3
+Elapsed time is 0.275855 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8152543 | rep = 4
+Elapsed time is 0.241336 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7930452 | rep = 5
+Elapsed time is 0.224040 seconds.
+Average eval for n=1500, N=200 over 5 reps = 1.786906
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7417648 | rep = 1
+Elapsed time is 0.220023 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.9761027 | rep = 2
+Elapsed time is 0.274531 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 2.0695246 | rep = 3
+Elapsed time is 0.279545 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7177707 | rep = 4
+Elapsed time is 0.251427 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.863651 | rep = 5
+Elapsed time is 0.257784 seconds.
+Average eval for n=1500, N=400 over 5 reps = 1.8737628
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7425927 | rep = 1
+Elapsed time is 0.304497 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.9062058 | rep = 2
+Elapsed time is 0.234589 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.9783881 | rep = 3
+Elapsed time is 0.314986 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 2.0211484 | rep = 4
+Elapsed time is 0.264218 seconds.
+Eval n=1500, NN=10000 | out-of-sample obj = 1.9574105 | rep = 5
+Elapsed time is 0.349215 seconds.
+Average eval for n=1500, N=600 over 5 reps = 1.9211491
+Eval n=2000, NN=10000 | out-of-sample obj = 2.2329702 | rep = 1
+Elapsed time is 0.289697 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8233216 | rep = 2
+Elapsed time is 0.345878 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7895158 | rep = 3
+Elapsed time is 0.290972 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8712422 | rep = 4
+Elapsed time is 0.306017 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7878233 | rep = 5
+Elapsed time is 0.424085 seconds.
+Average eval for n=2000, N=200 over 5 reps = 1.9009746
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8253691 | rep = 1
+Elapsed time is 0.463668 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 2.1075295 | rep = 2
+Elapsed time is 0.413769 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7320131 | rep = 3
+Elapsed time is 0.339733 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9061676 | rep = 4
+Elapsed time is 0.371346 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7628334 | rep = 5
+Elapsed time is 0.354831 seconds.
+Average eval for n=2000, N=400 over 5 reps = 1.8667825
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7354844 | rep = 1
+Elapsed time is 0.436051 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 2.2710841 | rep = 2
+Elapsed time is 0.398592 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 2.0624485 | rep = 3
+Elapsed time is 0.399911 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 2.1892973 | rep = 4
+Elapsed time is 0.374865 seconds.
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8524087 | rep = 5
+Elapsed time is 0.412357 seconds.
+Average eval for n=2000, N=600 over 5 reps = 2.0221446
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8155985 | rep = 1
+Elapsed time is 0.857525 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.9777114 | rep = 2
+Elapsed time is 0.768454 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8159924 | rep = 3
+Elapsed time is 0.769552 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8284898 | rep = 4
+Elapsed time is 0.876550 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8164336 | rep = 5
+Elapsed time is 0.863376 seconds.
+Average eval for n=5000, N=200 over 5 reps = 1.8508451
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8402739 | rep = 1
+Elapsed time is 0.827406 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7681851 | rep = 2
+Elapsed time is 0.788694 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 2.8934163 | rep = 3
+Elapsed time is 0.659386 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8277665 | rep = 4
+Elapsed time is 0.708941 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.964271 | rep = 5
+Elapsed time is 0.796768 seconds.
+Average eval for n=5000, N=400 over 5 reps = 2.0587825
+Eval n=5000, NN=10000 | out-of-sample obj = 2.1915017 | rep = 1
+Elapsed time is 0.784764 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.8884253 | rep = 2
+Elapsed time is 0.892457 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 2.1244898 | rep = 3
+Elapsed time is 0.804738 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 2.1256239 | rep = 4
+Elapsed time is 0.724692 seconds.
+Eval n=5000, NN=10000 | out-of-sample obj = 1.9086886 | rep = 5
+Elapsed time is 0.840415 seconds.
+Average eval for n=5000, N=600 over 5 reps = 2.0477459
+Error using save
+Unable to write to file
+'/blue/yu.yang1/haoran.liu/SAA_light_tail/experiment_results_replications_initial0_20251019_081605.mat'
+because it appears to be corrupt.
+
+Error in SAA_varyingN_replication_initial0 (line 193)
+
+Error in run (line 112)
+evalin('caller', strcat(scriptStem, ';'));
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

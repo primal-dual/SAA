@@ -1,0 +1,30 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Early stop at iter 154 (n=100): recent Δobj=1.72167e-06 (rel 9.97e-07)
+Finished n=100 | final obj = 1.7264391 (iter_used=154)
+Early stop at iter 109 (n=200): recent Δobj=1.71917e-06 (rel 9.99e-07)
+Finished n=200 | final obj = 1.721503 (iter_used=109)
+Early stop at iter 91 (n=300): recent Δobj=1.68823e-06 (rel 9.82e-07)
+Finished n=300 | final obj = 1.7190689 (iter_used=91)
+Early stop at iter 123 (n=400): recent Δobj=1.69624e-06 (rel 9.87e-07)
+Finished n=400 | final obj = 1.7179084 (iter_used=123)
+Finished n=500 | final obj = 1.7180997 (iter_used=500000)
+Finished n=600 | final obj = 1.718692 (iter_used=500000)
+Finished n=700 | final obj = 1.716278 (iter_used=500000)
+Finished n=800 | final obj = 1.7154377 (iter_used=500000)
+Finished n=900 | final obj = 1.7159974 (iter_used=500000)
+Finished n=1000 | final obj = 1.7157875 (iter_used=500000)
+Early stop at iter 118 (n=1500): recent Δobj=1.68761e-06 (rel 9.85e-07)
+Finished n=1500 | final obj = 1.714144 (iter_used=118)
+Early stop at iter 142 (n=2000): recent Δobj=1.70098e-06 (rel 9.93e-07)
+Finished n=2000 | final obj = 1.7134646 (iter_used=142)
+Finished n=5000 | final obj = 1.7186342 (iter_used=500000)
+Results saved to experiment_results.mat
