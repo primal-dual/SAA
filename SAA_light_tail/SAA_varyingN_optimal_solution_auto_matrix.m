@@ -29,9 +29,9 @@ stepsize_values = [
     1e-3;  % n = 800
     1e-3;  % n = 900
     1e-3;  % n = 1000
-    1e-3;  % n = 1500
-    1e-3;  % n = 2000
-    1e-3   % n = 5000
+    1e-4;  % n = 1500
+    1e-4;  % n = 2000
+    1e-4   % n = 5000
 ];
 
 SAA_penalty = false; % change to false if you dont want any penalty term
@@ -145,6 +145,6 @@ for ii = 1:num_n
     fprintf('Finished n=%d | final obj = %.8g (iter_used=%d)\n', n, obj_val_last(ii), i_last);
 end
 
-save('experiment_results.mat', 'n_values', 'obj_val_last', 'x_temp_last');
+save('experiment_results.mat', 'n_values', 'obj_val', 'x_temp_last');
 fprintf('Results saved to experiment_results.mat\n');
 
