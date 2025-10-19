@@ -1,0 +1,246 @@
+You already have the most recent version of MATLAB Connector installed.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Eval n=100, NN=10000 | out-of-sample obj = 1.7284269 | rep = 1
+Eval n=100, NN=10000 | out-of-sample obj = 1.7287838 | rep = 2
+Eval n=100, NN=10000 | out-of-sample obj = 1.7284029 | rep = 3
+Eval n=100, NN=10000 | out-of-sample obj = 1.729906 | rep = 4
+Eval n=100, NN=10000 | out-of-sample obj = 1.7290445 | rep = 5
+Average eval for n=100, N=200 over 5 reps = 1.7289128
+Eval n=100, NN=10000 | out-of-sample obj = 1.7278458 | rep = 1
+Eval n=100, NN=10000 | out-of-sample obj = 1.7280078 | rep = 2
+Eval n=100, NN=10000 | out-of-sample obj = 1.7283578 | rep = 3
+Eval n=100, NN=10000 | out-of-sample obj = 1.7276116 | rep = 4
+Eval n=100, NN=10000 | out-of-sample obj = 1.7281257 | rep = 5
+Average eval for n=100, N=400 over 5 reps = 1.7279897
+Eval n=100, NN=10000 | out-of-sample obj = 1.7277781 | rep = 1
+Eval n=100, NN=10000 | out-of-sample obj = 1.7273196 | rep = 2
+Eval n=100, NN=10000 | out-of-sample obj = 1.7276038 | rep = 3
+Eval n=100, NN=10000 | out-of-sample obj = 1.7276936 | rep = 4
+Eval n=100, NN=10000 | out-of-sample obj = 1.7277232 | rep = 5
+Average eval for n=100, N=600 over 5 reps = 1.7276237
+Eval n=200, NN=10000 | out-of-sample obj = 1.7238751 | rep = 1
+Eval n=200, NN=10000 | out-of-sample obj = 1.7241704 | rep = 2
+Eval n=200, NN=10000 | out-of-sample obj = 1.7241814 | rep = 3
+Eval n=200, NN=10000 | out-of-sample obj = 1.7235087 | rep = 4
+Eval n=200, NN=10000 | out-of-sample obj = 1.7241009 | rep = 5
+Average eval for n=200, N=200 over 5 reps = 1.7239673
+Eval n=200, NN=10000 | out-of-sample obj = 1.723379 | rep = 1
+Eval n=200, NN=10000 | out-of-sample obj = 1.7235283 | rep = 2
+Eval n=200, NN=10000 | out-of-sample obj = 1.723454 | rep = 3
+Eval n=200, NN=10000 | out-of-sample obj = 1.72334 | rep = 4
+Eval n=200, NN=10000 | out-of-sample obj = 1.7231282 | rep = 5
+Average eval for n=200, N=400 over 5 reps = 1.7233659
+Eval n=200, NN=10000 | out-of-sample obj = 1.7230734 | rep = 1
+Eval n=200, NN=10000 | out-of-sample obj = 1.7227254 | rep = 2
+Eval n=200, NN=10000 | out-of-sample obj = 1.7227109 | rep = 3
+Eval n=200, NN=10000 | out-of-sample obj = 1.7228896 | rep = 4
+Eval n=200, NN=10000 | out-of-sample obj = 1.7230591 | rep = 5
+Average eval for n=200, N=600 over 5 reps = 1.7228917
+Eval n=300, NN=10000 | out-of-sample obj = 1.7225147 | rep = 1
+Eval n=300, NN=10000 | out-of-sample obj = 1.722317 | rep = 2
+Eval n=300, NN=10000 | out-of-sample obj = 1.722703 | rep = 3
+Eval n=300, NN=10000 | out-of-sample obj = 1.7228204 | rep = 4
+Eval n=300, NN=10000 | out-of-sample obj = 1.7226201 | rep = 5
+Average eval for n=300, N=200 over 5 reps = 1.722595
+Eval n=300, NN=10000 | out-of-sample obj = 1.7216078 | rep = 1
+Eval n=300, NN=10000 | out-of-sample obj = 1.7221139 | rep = 2
+Eval n=300, NN=10000 | out-of-sample obj = 1.7215132 | rep = 3
+Eval n=300, NN=10000 | out-of-sample obj = 1.7215606 | rep = 4
+Eval n=300, NN=10000 | out-of-sample obj = 1.7218423 | rep = 5
+Average eval for n=300, N=400 over 5 reps = 1.7217276
+Eval n=300, NN=10000 | out-of-sample obj = 1.7210551 | rep = 1
+Eval n=300, NN=10000 | out-of-sample obj = 1.7209156 | rep = 2
+Eval n=300, NN=10000 | out-of-sample obj = 1.7210209 | rep = 3
+Eval n=300, NN=10000 | out-of-sample obj = 1.7212177 | rep = 4
+Eval n=300, NN=10000 | out-of-sample obj = 1.7211215 | rep = 5
+Average eval for n=300, N=600 over 5 reps = 1.7210662
+Eval n=400, NN=10000 | out-of-sample obj = 1.7214395 | rep = 1
+Eval n=400, NN=10000 | out-of-sample obj = 1.7213643 | rep = 2
+Eval n=400, NN=10000 | out-of-sample obj = 1.7213364 | rep = 3
+Eval n=400, NN=10000 | out-of-sample obj = 1.7214677 | rep = 4
+Eval n=400, NN=10000 | out-of-sample obj = 1.7214182 | rep = 5
+Average eval for n=400, N=200 over 5 reps = 1.7214052
+Eval n=400, NN=10000 | out-of-sample obj = 1.7207775 | rep = 1
+Eval n=400, NN=10000 | out-of-sample obj = 1.7205796 | rep = 2
+Eval n=400, NN=10000 | out-of-sample obj = 1.7205431 | rep = 3
+Eval n=400, NN=10000 | out-of-sample obj = 1.7207421 | rep = 4
+Eval n=400, NN=10000 | out-of-sample obj = 1.7206203 | rep = 5
+Average eval for n=400, N=400 over 5 reps = 1.7206525
+Eval n=400, NN=10000 | out-of-sample obj = 1.720166 | rep = 1
+Eval n=400, NN=10000 | out-of-sample obj = 1.7201957 | rep = 2
+Eval n=400, NN=10000 | out-of-sample obj = 1.7201086 | rep = 3
+Eval n=400, NN=10000 | out-of-sample obj = 1.7201114 | rep = 4
+Eval n=400, NN=10000 | out-of-sample obj = 1.7200798 | rep = 5
+Average eval for n=400, N=600 over 5 reps = 1.7201323
+Eval n=500, NN=10000 | out-of-sample obj = 1.7234474 | rep = 1
+Eval n=500, NN=10000 | out-of-sample obj = 1.7231789 | rep = 2
+Eval n=500, NN=10000 | out-of-sample obj = 1.7226921 | rep = 3
+Eval n=500, NN=10000 | out-of-sample obj = 1.7228629 | rep = 4
+Eval n=500, NN=10000 | out-of-sample obj = 1.72185 | rep = 5
+Average eval for n=500, N=200 over 5 reps = 1.7228063
+Eval n=500, NN=10000 | out-of-sample obj = 1.7203983 | rep = 1
+Eval n=500, NN=10000 | out-of-sample obj = 1.7213796 | rep = 2
+Eval n=500, NN=10000 | out-of-sample obj = 1.7215967 | rep = 3
+Eval n=500, NN=10000 | out-of-sample obj = 1.7212918 | rep = 4
+Eval n=500, NN=10000 | out-of-sample obj = 1.7206569 | rep = 5
+Average eval for n=500, N=400 over 5 reps = 1.7210646
+Eval n=500, NN=10000 | out-of-sample obj = 1.7202427 | rep = 1
+Eval n=500, NN=10000 | out-of-sample obj = 1.7202131 | rep = 2
+Eval n=500, NN=10000 | out-of-sample obj = 1.7201351 | rep = 3
+Eval n=500, NN=10000 | out-of-sample obj = 1.7202524 | rep = 4
+Eval n=500, NN=10000 | out-of-sample obj = 1.7205055 | rep = 5
+Average eval for n=500, N=600 over 5 reps = 1.7202698
+Eval n=600, NN=10000 | out-of-sample obj = 1.7241056 | rep = 1
+Eval n=600, NN=10000 | out-of-sample obj = 1.7236272 | rep = 2
+Eval n=600, NN=10000 | out-of-sample obj = 1.7229169 | rep = 3
+Eval n=600, NN=10000 | out-of-sample obj = 1.7235725 | rep = 4
+Eval n=600, NN=10000 | out-of-sample obj = 1.722509 | rep = 5
+Average eval for n=600, N=200 over 5 reps = 1.7233462
+Eval n=600, NN=10000 | out-of-sample obj = 1.7208321 | rep = 1
+Eval n=600, NN=10000 | out-of-sample obj = 1.7207512 | rep = 2
+Eval n=600, NN=10000 | out-of-sample obj = 1.7217106 | rep = 3
+Eval n=600, NN=10000 | out-of-sample obj = 1.7206978 | rep = 4
+Eval n=600, NN=10000 | out-of-sample obj = 1.7208068 | rep = 5
+Average eval for n=600, N=400 over 5 reps = 1.7209597
+Eval n=600, NN=10000 | out-of-sample obj = 1.7204207 | rep = 1
+Eval n=600, NN=10000 | out-of-sample obj = 1.7205572 | rep = 2
+Eval n=600, NN=10000 | out-of-sample obj = 1.7207504 | rep = 3
+Eval n=600, NN=10000 | out-of-sample obj = 1.7205791 | rep = 4
+Eval n=600, NN=10000 | out-of-sample obj = 1.7206029 | rep = 5
+Average eval for n=600, N=600 over 5 reps = 1.7205821
+Eval n=700, NN=10000 | out-of-sample obj = 1.7235511 | rep = 1
+Eval n=700, NN=10000 | out-of-sample obj = 1.7236164 | rep = 2
+Eval n=700, NN=10000 | out-of-sample obj = 1.7224956 | rep = 3
+Eval n=700, NN=10000 | out-of-sample obj = 1.7227376 | rep = 4
+Eval n=700, NN=10000 | out-of-sample obj = 1.7234094 | rep = 5
+Average eval for n=700, N=200 over 5 reps = 1.723162
+Eval n=700, NN=10000 | out-of-sample obj = 1.7210668 | rep = 1
+Eval n=700, NN=10000 | out-of-sample obj = 1.7207658 | rep = 2
+Eval n=700, NN=10000 | out-of-sample obj = 1.72128 | rep = 3
+Eval n=700, NN=10000 | out-of-sample obj = 1.7208347 | rep = 4
+Eval n=700, NN=10000 | out-of-sample obj = 1.7212416 | rep = 5
+Average eval for n=700, N=400 over 5 reps = 1.7210378
+Eval n=700, NN=10000 | out-of-sample obj = 1.7204032 | rep = 1
+Eval n=700, NN=10000 | out-of-sample obj = 1.7200195 | rep = 2
+Eval n=700, NN=10000 | out-of-sample obj = 1.7199407 | rep = 3
+Eval n=700, NN=10000 | out-of-sample obj = 1.7200275 | rep = 4
+Eval n=700, NN=10000 | out-of-sample obj = 1.7204815 | rep = 5
+Average eval for n=700, N=600 over 5 reps = 1.7201745
+Eval n=800, NN=10000 | out-of-sample obj = 1.7234594 | rep = 1
+Eval n=800, NN=10000 | out-of-sample obj = 1.7231642 | rep = 2
+Eval n=800, NN=10000 | out-of-sample obj = 1.7225501 | rep = 3
+Eval n=800, NN=10000 | out-of-sample obj = 1.7234051 | rep = 4
+Eval n=800, NN=10000 | out-of-sample obj = 1.7243217 | rep = 5
+Average eval for n=800, N=200 over 5 reps = 1.7233801
+Eval n=800, NN=10000 | out-of-sample obj = 1.7203049 | rep = 1
+Eval n=800, NN=10000 | out-of-sample obj = 1.7214053 | rep = 2
+Eval n=800, NN=10000 | out-of-sample obj = 1.7212923 | rep = 3
+Eval n=800, NN=10000 | out-of-sample obj = 1.7211316 | rep = 4
+Eval n=800, NN=10000 | out-of-sample obj = 1.7205614 | rep = 5
+Average eval for n=800, N=400 over 5 reps = 1.7209391
+Eval n=800, NN=10000 | out-of-sample obj = 1.7201225 | rep = 1
+Eval n=800, NN=10000 | out-of-sample obj = 1.7204012 | rep = 2
+Eval n=800, NN=10000 | out-of-sample obj = 1.7202991 | rep = 3
+Eval n=800, NN=10000 | out-of-sample obj = 1.7200932 | rep = 4
+Eval n=800, NN=10000 | out-of-sample obj = 1.7198892 | rep = 5
+Average eval for n=800, N=600 over 5 reps = 1.720161
+Eval n=900, NN=10000 | out-of-sample obj = 1.7278122 | rep = 1
+Eval n=900, NN=10000 | out-of-sample obj = 1.7242077 | rep = 2
+Eval n=900, NN=10000 | out-of-sample obj = 1.7239649 | rep = 3
+Eval n=900, NN=10000 | out-of-sample obj = 1.7246364 | rep = 4
+Eval n=900, NN=10000 | out-of-sample obj = 1.7246875 | rep = 5
+Average eval for n=900, N=200 over 5 reps = 1.7250617
+Eval n=900, NN=10000 | out-of-sample obj = 1.7215967 | rep = 1
+Eval n=900, NN=10000 | out-of-sample obj = 1.7213058 | rep = 2
+Eval n=900, NN=10000 | out-of-sample obj = 1.7226176 | rep = 3
+Eval n=900, NN=10000 | out-of-sample obj = 1.7223367 | rep = 4
+Eval n=900, NN=10000 | out-of-sample obj = 1.7211463 | rep = 5
+Average eval for n=900, N=400 over 5 reps = 1.7218006
+Eval n=900, NN=10000 | out-of-sample obj = 1.7206502 | rep = 1
+Eval n=900, NN=10000 | out-of-sample obj = 1.7206536 | rep = 2
+Eval n=900, NN=10000 | out-of-sample obj = 1.7211177 | rep = 3
+Eval n=900, NN=10000 | out-of-sample obj = 1.720221 | rep = 4
+Eval n=900, NN=10000 | out-of-sample obj = 1.7217048 | rep = 5
+Average eval for n=900, N=600 over 5 reps = 1.7208695
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7255714 | rep = 1
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7243372 | rep = 2
+Eval n=1000, NN=10000 | out-of-sample obj = 1.726304 | rep = 3
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7246731 | rep = 4
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7259713 | rep = 5
+Average eval for n=1000, N=200 over 5 reps = 1.7253714
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7225247 | rep = 1
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7223367 | rep = 2
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7216513 | rep = 3
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7230554 | rep = 4
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7216341 | rep = 5
+Average eval for n=1000, N=400 over 5 reps = 1.7222404
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7212163 | rep = 1
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7204712 | rep = 2
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7211249 | rep = 3
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7212307 | rep = 4
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7211 | rep = 5
+Average eval for n=1000, N=600 over 5 reps = 1.7210286
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7260626 | rep = 1
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7287953 | rep = 2
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7272299 | rep = 3
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7281034 | rep = 4
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7276023 | rep = 5
+Average eval for n=1500, N=200 over 5 reps = 1.7275587
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7238385 | rep = 1
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7235194 | rep = 2
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7234894 | rep = 3
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7239034 | rep = 4
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7234425 | rep = 5
+Average eval for n=1500, N=400 over 5 reps = 1.7236386
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7208676 | rep = 1
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7226963 | rep = 2
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7218604 | rep = 3
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7217815 | rep = 4
+Eval n=1500, NN=10000 | out-of-sample obj = 1.7221611 | rep = 5
+Average eval for n=1500, N=600 over 5 reps = 1.7218734
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7361943 | rep = 1
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7348611 | rep = 2
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7359604 | rep = 3
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7345251 | rep = 4
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7359725 | rep = 5
+Average eval for n=2000, N=200 over 5 reps = 1.7355027
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7294556 | rep = 1
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7328656 | rep = 2
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7323407 | rep = 3
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7318976 | rep = 4
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7293875 | rep = 5
+Average eval for n=2000, N=400 over 5 reps = 1.7311894
+Eval n=2000, NN=10000 | out-of-sample obj = 1.726042 | rep = 1
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7274487 | rep = 2
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7267257 | rep = 3
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7284883 | rep = 4
+Eval n=2000, NN=10000 | out-of-sample obj = 1.7288368 | rep = 5
+Average eval for n=2000, N=600 over 5 reps = 1.7275083
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7299146 | rep = 1
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7305613 | rep = 2
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7299637 | rep = 3
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7290865 | rep = 4
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7302771 | rep = 5
+Average eval for n=5000, N=200 over 5 reps = 1.7299606
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7268282 | rep = 1
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7271535 | rep = 2
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7279687 | rep = 3
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7296965 | rep = 4
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7264098 | rep = 5
+Average eval for n=5000, N=400 over 5 reps = 1.7276113
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7251821 | rep = 1
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7232769 | rep = 2
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7243519 | rep = 3
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7241806 | rep = 4
+Eval n=5000, NN=10000 | out-of-sample obj = 1.7232179 | rep = 5
+Average eval for n=5000, N=600 over 5 reps = 1.7240419
+Saved results to experiment_results_replications_EMD_20251018_203834.mat

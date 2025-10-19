@@ -1,0 +1,88 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Eval n=100, NN=10000 | out-of-sample obj = 4.5239379 | rep = 1
+Elapsed time is 0.020855 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.5172209 | rep = 2
+Elapsed time is 0.019284 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.3784012 | rep = 3
+Elapsed time is 0.014966 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4540333 | rep = 4
+Elapsed time is 0.016646 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4196347 | rep = 5
+Elapsed time is 0.016198 seconds.
+Average eval for n=100, N=200 over 5 reps = 4.4586456
+Eval n=100, NN=10000 | out-of-sample obj = 4.4728992 | rep = 1
+Elapsed time is 0.013537 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.3314645 | rep = 2
+Elapsed time is 0.013129 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4566588 | rep = 3
+Elapsed time is 0.013797 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4550528 | rep = 4
+Elapsed time is 0.013022 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4379028 | rep = 5
+Elapsed time is 0.011875 seconds.
+Average eval for n=100, N=400 over 5 reps = 4.4307956
+Eval n=100, NN=10000 | out-of-sample obj = 4.3873834 | rep = 1
+Elapsed time is 0.012707 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4311319 | rep = 2
+Elapsed time is 0.013594 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4666371 | rep = 3
+Elapsed time is 0.013140 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4384707 | rep = 4
+Elapsed time is 0.014043 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 4.4017557 | rep = 5
+Elapsed time is 0.011907 seconds.
+Average eval for n=100, N=600 over 5 reps = 4.4250757
+Eval n=200, NN=10000 | out-of-sample obj = 5.6821612 | rep = 1
+Elapsed time is 0.030498 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8551704 | rep = 2
+Elapsed time is 0.034285 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.6700797 | rep = 3
+Elapsed time is 0.031274 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 6.0559024 | rep = 4
+Elapsed time is 0.030782 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8899731 | rep = 5
+Elapsed time is 0.026108 seconds.
+Average eval for n=200, N=200 over 5 reps = 5.8306574
+Eval n=200, NN=10000 | out-of-sample obj = 5.8425208 | rep = 1
+Elapsed time is 0.026630 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8927805 | rep = 2
+Elapsed time is 0.035066 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8324556 | rep = 3
+Elapsed time is 0.024716 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8840864 | rep = 4
+Elapsed time is 0.023004 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.7621079 | rep = 5
+Elapsed time is 0.023201 seconds.
+Average eval for n=200, N=400 over 5 reps = 5.8427902
+Eval n=200, NN=10000 | out-of-sample obj = 5.9027482 | rep = 1
+Elapsed time is 0.023992 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.7567028 | rep = 2
+Elapsed time is 0.022326 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8521657 | rep = 3
+Elapsed time is 0.025022 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8786815 | rep = 4
+Elapsed time is 0.026089 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 5.8309044 | rep = 5
+Elapsed time is 0.022705 seconds.
+Average eval for n=200, N=600 over 5 reps = 5.8442405
+Eval n=300, NN=10000 | out-of-sample obj = 5.9829362 | rep = 1
+Elapsed time is 0.041384 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 6.0006144 | rep = 2
+Elapsed time is 0.041410 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 5.9617743 | rep = 3
+Elapsed time is 0.056815 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 5.9602556 | rep = 4
+Elapsed time is 0.044564 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 5.9420305 | rep = 5
+Elapsed time is 0.035544 seconds.
+Average eval for n=300, N=200 over 5 reps = 5.9695222
+Eval n=300, NN=10000 | out-of-sample obj = 5.9636686 | rep = 1

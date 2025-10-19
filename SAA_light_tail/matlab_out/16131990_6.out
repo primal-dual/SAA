@@ -1,0 +1,141 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Eval n=100, NN=10000 | out-of-sample obj = 1.7380024 | rep = 1
+Elapsed time is 0.019528 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 1.7381755 | rep = 2
+Elapsed time is 0.018115 seconds.
+Early stop at iter 471540 (n=100, N=200): recent Δobj=1.51822e-06 (rel 8.74e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.738278 | rep = 3
+Elapsed time is 0.018134 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 1.7383142 | rep = 4
+Elapsed time is 0.015368 seconds.
+Eval n=100, NN=10000 | out-of-sample obj = 1.7382353 | rep = 5
+Elapsed time is 0.015699 seconds.
+Average eval for n=100, N=200 over 5 reps = 1.7382011
+Early stop at iter 19007 (n=100, N=400): recent Δobj=1.73883e-06 (rel 9.99e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7368352 | rep = 1
+Elapsed time is 0.012769 seconds.
+Early stop at iter 24806 (n=100, N=400): recent Δobj=1.73753e-06 (rel 9.99e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7370054 | rep = 2
+Elapsed time is 0.012966 seconds.
+Early stop at iter 23965 (n=100, N=400): recent Δobj=1.56067e-06 (rel 8.97e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7362418 | rep = 3
+Elapsed time is 0.013030 seconds.
+Early stop at iter 18460 (n=100, N=400): recent Δobj=1.66163e-06 (rel 9.54e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7360363 | rep = 4
+Elapsed time is 0.013042 seconds.
+Early stop at iter 18999 (n=100, N=400): recent Δobj=1.23667e-06 (rel 7.1e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7367088 | rep = 5
+Elapsed time is 0.012984 seconds.
+Average eval for n=100, N=400 over 5 reps = 1.7365655
+Early stop at iter 18262 (n=100, N=600): recent Δobj=1.49823e-06 (rel 8.6e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7359954 | rep = 1
+Elapsed time is 0.012850 seconds.
+Early stop at iter 18471 (n=100, N=600): recent Δobj=1.6438e-06 (rel 9.45e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.735817 | rep = 2
+Elapsed time is 0.012981 seconds.
+Early stop at iter 18294 (n=100, N=600): recent Δobj=1.4678e-06 (rel 8.44e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7360439 | rep = 3
+Elapsed time is 0.012755 seconds.
+Early stop at iter 18457 (n=100, N=600): recent Δobj=1.63608e-06 (rel 9.41e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7362498 | rep = 4
+Elapsed time is 0.012394 seconds.
+Early stop at iter 18195 (n=100, N=600): recent Δobj=1.56776e-06 (rel 9.01e-07)
+Eval n=100, NN=10000 | out-of-sample obj = 1.7354323 | rep = 5
+Elapsed time is 0.012862 seconds.
+Average eval for n=100, N=600 over 5 reps = 1.7359077
+Eval n=200, NN=10000 | out-of-sample obj = 1.7308339 | rep = 1
+Elapsed time is 0.030581 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 1.7321719 | rep = 2
+Elapsed time is 0.025887 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 1.7319988 | rep = 3
+Elapsed time is 0.032484 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 1.7328304 | rep = 4
+Elapsed time is 0.028303 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 1.7324019 | rep = 5
+Elapsed time is 0.037466 seconds.
+Average eval for n=200, N=200 over 5 reps = 1.7320474
+Eval n=200, NN=10000 | out-of-sample obj = 1.7311163 | rep = 1
+Elapsed time is 0.026813 seconds.
+Early stop at iter 137744 (n=200, N=400): recent Δobj=1.71184e-06 (rel 9.88e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7308604 | rep = 2
+Elapsed time is 0.024950 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 1.7308994 | rep = 3
+Elapsed time is 0.025651 seconds.
+Eval n=200, NN=10000 | out-of-sample obj = 1.7316849 | rep = 4
+Elapsed time is 0.024347 seconds.
+Early stop at iter 223114 (n=200, N=400): recent Δobj=1.51965e-06 (rel 8.77e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7308547 | rep = 5
+Elapsed time is 0.027820 seconds.
+Average eval for n=200, N=400 over 5 reps = 1.7310831
+Early stop at iter 15470 (n=200, N=600): recent Δobj=1.65979e-06 (rel 9.57e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7311005 | rep = 1
+Elapsed time is 0.026041 seconds.
+Early stop at iter 25879 (n=200, N=600): recent Δobj=1.53874e-06 (rel 8.88e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7304719 | rep = 2
+Elapsed time is 0.024340 seconds.
+Early stop at iter 13696 (n=200, N=600): recent Δobj=1.67676e-06 (rel 9.67e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7300756 | rep = 3
+Elapsed time is 0.026780 seconds.
+Early stop at iter 18866 (n=200, N=600): recent Δobj=1.61329e-06 (rel 9.3e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7304103 | rep = 4
+Elapsed time is 0.027029 seconds.
+Early stop at iter 14263 (n=200, N=600): recent Δobj=1.71758e-06 (rel 9.9e-07)
+Eval n=200, NN=10000 | out-of-sample obj = 1.7298315 | rep = 5
+Elapsed time is 0.026525 seconds.
+Average eval for n=200, N=600 over 5 reps = 1.730378
+Eval n=300, NN=10000 | out-of-sample obj = 1.7299476 | rep = 1
+Elapsed time is 0.046546 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7291807 | rep = 2
+Elapsed time is 0.047090 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7277228 | rep = 3
+Elapsed time is 0.044029 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7277321 | rep = 4
+Elapsed time is 0.045862 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7288299 | rep = 5
+Elapsed time is 0.040509 seconds.
+Average eval for n=300, N=200 over 5 reps = 1.7286826
+Eval n=300, NN=10000 | out-of-sample obj = 1.7267602 | rep = 1
+Elapsed time is 0.045946 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7261012 | rep = 2
+Elapsed time is 0.035583 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7264005 | rep = 3
+Elapsed time is 0.045150 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7260142 | rep = 4
+Elapsed time is 0.035570 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.726852 | rep = 5
+Elapsed time is 0.044492 seconds.
+Average eval for n=300, N=400 over 5 reps = 1.7264256
+Eval n=300, NN=10000 | out-of-sample obj = 1.7261246 | rep = 1
+Elapsed time is 0.046070 seconds.
+Early stop at iter 34831 (n=300, N=600): recent Δobj=1.7242e-06 (rel 9.97e-07)
+Eval n=300, NN=10000 | out-of-sample obj = 1.7259381 | rep = 2
+Elapsed time is 0.040873 seconds.
+Early stop at iter 24522 (n=300, N=600): recent Δobj=1.63147e-06 (rel 9.44e-07)
+Eval n=300, NN=10000 | out-of-sample obj = 1.7259629 | rep = 3
+Elapsed time is 0.038069 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7260808 | rep = 4
+Elapsed time is 0.039476 seconds.
+Eval n=300, NN=10000 | out-of-sample obj = 1.7260231 | rep = 5
+Elapsed time is 0.036932 seconds.
+Average eval for n=300, N=600 over 5 reps = 1.7260259
+Eval n=400, NN=10000 | out-of-sample obj = 1.7259369 | rep = 1
+Elapsed time is 0.052977 seconds.
+Eval n=400, NN=10000 | out-of-sample obj = 1.726421 | rep = 2
+Elapsed time is 0.052516 seconds.
+Eval n=400, NN=10000 | out-of-sample obj = 1.7254029 | rep = 3
+Elapsed time is 0.053190 seconds.
+Eval n=400, NN=10000 | out-of-sample obj = 1.7254778 | rep = 4
+Elapsed time is 0.053578 seconds.
+Eval n=400, NN=10000 | out-of-sample obj = 1.725688 | rep = 5
+Elapsed time is 0.046005 seconds.
+Average eval for n=400, N=200 over 5 reps = 1.7257853
+Eval n=400, NN=10000 | out-of-sample obj = 1.7242554 | rep = 1

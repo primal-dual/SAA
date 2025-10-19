@@ -1,0 +1,41 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+n=100 | empirical mean (should be ~0): 0.00449995 | expectation: 1.9901
+Early stop at iter 146 (n=100): recent Δobj=1.73298e-06 (rel 9.92e-07)
+Finished n=100 | final obj = 1.7473894 (iter_used=146)
+n=200 | empirical mean (should be ~0): -0.00197094 | expectation: 1.9901
+Early stop at iter 94 (n=200): recent Δobj=1.69276e-06 (rel 9.75e-07)
+Finished n=200 | final obj = 1.7366236 (iter_used=94)
+n=300 | empirical mean (should be ~0): 0.000708862 | expectation: 1.9901
+Early stop at iter 89 (n=300): recent Δobj=1.67841e-06 (rel 9.69e-07)
+Finished n=300 | final obj = 1.7324832 (iter_used=89)
+n=400 | empirical mean (should be ~0): 0.00214125 | expectation: 1.9901
+Early stop at iter 3268 (n=400): recent Δobj=1.11713e-06 (rel 6.46e-07)
+Finished n=400 | final obj = 1.729375 (iter_used=3268)
+n=500 | empirical mean (should be ~0): -0.0020566 | expectation: 1.9901
+Finished n=500 | final obj = 1.7274167 (iter_used=500000)
+n=600 | empirical mean (should be ~0): -0.000309359 | expectation: 1.9901
+Finished n=600 | final obj = 1.7260516 (iter_used=500000)
+n=700 | empirical mean (should be ~0): 0.00101782 | expectation: 1.9901
+Finished n=700 | final obj = 1.7250565 (iter_used=500000)
+n=800 | empirical mean (should be ~0): -0.000151827 | expectation: 1.9901
+Finished n=800 | final obj = 1.7238675 (iter_used=500000)
+n=900 | empirical mean (should be ~0): -0.000512663 | expectation: 1.9901
+Finished n=900 | final obj = 1.7237677 (iter_used=500000)
+n=1000 | empirical mean (should be ~0): 0.000515017 | expectation: 1.9901
+Finished n=1000 | final obj = 1.7226817 (iter_used=500000)
+n=1500 | empirical mean (should be ~0): -0.00126334 | expectation: 1.9901
+Finished n=1500 | final obj = 1.7236024 (iter_used=500000)
+n=2000 | empirical mean (should be ~0): -0.00110759 | expectation: 1.9901
+Finished n=2000 | final obj = 1.7522348 (iter_used=500000)
+n=5000 | empirical mean (should be ~0): -0.000446288 | expectation: 1.9901
+Finished n=5000 | final obj = 1.7862843 (iter_used=500000)
+Results saved to experiment_results.mat

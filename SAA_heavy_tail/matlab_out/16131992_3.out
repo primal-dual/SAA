@@ -1,0 +1,441 @@
+You already have the most recent version of MATLAB Connector installed.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+n=100, N=200 | empirical mean (should be ~0): 0.0310965 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.8034388 | rep = 1
+n=100, N=200 | empirical mean (should be ~0): 0.0194283 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7826667 | rep = 2
+n=100, N=200 | empirical mean (should be ~0): -0.00588127 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.781377 | rep = 3
+n=100, N=200 | empirical mean (should be ~0): -0.0257912 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7755344 | rep = 4
+n=100, N=200 | empirical mean (should be ~0): -0.0552027 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7741041 | rep = 5
+Average eval for n=100, N=200 over 5 reps = 1.7834242
+n=100, N=400 | empirical mean (should be ~0): 0.0169306 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7659376 | rep = 1
+n=100, N=400 | empirical mean (should be ~0): 0.026065 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.769375 | rep = 2
+n=100, N=400 | empirical mean (should be ~0): 0.00477927 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.76722 | rep = 3
+n=100, N=400 | empirical mean (should be ~0): -0.0206257 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7673585 | rep = 4
+n=100, N=400 | empirical mean (should be ~0): 0.00954587 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7706174 | rep = 5
+Average eval for n=100, N=400 over 5 reps = 1.7681017
+n=100, N=600 | empirical mean (should be ~0): 0.00953481 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7598902 | rep = 1
+n=100, N=600 | empirical mean (should be ~0): 0.00395871 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7615619 | rep = 2
+n=100, N=600 | empirical mean (should be ~0): 0.0187027 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7628834 | rep = 3
+n=100, N=600 | empirical mean (should be ~0): 0.0132661 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7590904 | rep = 4
+n=100, N=600 | empirical mean (should be ~0): 0.00262617 | expectation: 1.9901
+Eval n=100, NN=10000 | out-of-sample obj = 1.7622813 | rep = 5
+Average eval for n=100, N=600 over 5 reps = 1.7611414
+n=200, N=200 | empirical mean (should be ~0): -0.0174688 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.783908 | rep = 1
+n=200, N=200 | empirical mean (should be ~0): -0.0149149 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8032591 | rep = 2
+n=200, N=200 | empirical mean (should be ~0): -0.00874926 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8110013 | rep = 3
+n=200, N=200 | empirical mean (should be ~0): 0.0140076 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8133084 | rep = 4
+n=200, N=200 | empirical mean (should be ~0): 0.00948837 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.9089626 | rep = 5
+Average eval for n=200, N=200 over 5 reps = 1.8240879
+n=200, N=400 | empirical mean (should be ~0): -0.0226957 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8014888 | rep = 1
+n=200, N=400 | empirical mean (should be ~0): -0.00151666 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8488982 | rep = 2
+n=200, N=400 | empirical mean (should be ~0): -0.000605646 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.7880589 | rep = 3
+n=200, N=400 | empirical mean (should be ~0): -0.00311068 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.7749306 | rep = 4
+n=200, N=400 | empirical mean (should be ~0): 0.0104461 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8296838 | rep = 5
+Average eval for n=200, N=400 over 5 reps = 1.8086121
+n=200, N=600 | empirical mean (should be ~0): -0.00161847 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8664146 | rep = 1
+n=200, N=600 | empirical mean (should be ~0): 2.59484e-05 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.7868203 | rep = 2
+n=200, N=600 | empirical mean (should be ~0): 0.0141734 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.8136602 | rep = 3
+n=200, N=600 | empirical mean (should be ~0): -0.00290268 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.7929044 | rep = 4
+n=200, N=600 | empirical mean (should be ~0): -0.00823643 | expectation: 1.9901
+Eval n=200, NN=10000 | out-of-sample obj = 1.7812581 | rep = 5
+Average eval for n=200, N=600 over 5 reps = 1.8082115
+n=300, N=200 | empirical mean (should be ~0): 0.0154016 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8888374 | rep = 1
+n=300, N=200 | empirical mean (should be ~0): 0.00522546 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 2.1513383 | rep = 2
+n=300, N=200 | empirical mean (should be ~0): 0.0165111 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 2.0533414 | rep = 3
+n=300, N=200 | empirical mean (should be ~0): 0.0253239 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 2.1262424 | rep = 4
+n=300, N=200 | empirical mean (should be ~0): -0.0046886 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8202076 | rep = 5
+Average eval for n=300, N=200 over 5 reps = 2.0079934
+n=300, N=400 | empirical mean (should be ~0): 0.00392529 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8480775 | rep = 1
+n=300, N=400 | empirical mean (should be ~0): 0.0111977 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8251969 | rep = 2
+n=300, N=400 | empirical mean (should be ~0): 0.000721803 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.841317 | rep = 3
+n=300, N=400 | empirical mean (should be ~0): -0.0141438 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8083983 | rep = 4
+n=300, N=400 | empirical mean (should be ~0): -0.0193795 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.86474 | rep = 5
+Average eval for n=300, N=400 over 5 reps = 1.837546
+n=300, N=600 | empirical mean (should be ~0): 0.00502381 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8127931 | rep = 1
+n=300, N=600 | empirical mean (should be ~0): -0.00778301 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.7908748 | rep = 2
+n=300, N=600 | empirical mean (should be ~0): 0.00292707 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8274491 | rep = 3
+n=300, N=600 | empirical mean (should be ~0): 0.00198976 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.8311209 | rep = 4
+n=300, N=600 | empirical mean (should be ~0): 0.0130276 | expectation: 1.9901
+Eval n=300, NN=10000 | out-of-sample obj = 1.9012614 | rep = 5
+Average eval for n=300, N=600 over 5 reps = 1.8326999
+n=400, N=200 | empirical mean (should be ~0): -0.000368426 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7507254 | rep = 1
+n=400, N=200 | empirical mean (should be ~0): -0.000615683 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7564175 | rep = 2
+n=400, N=200 | empirical mean (should be ~0): 0.00261557 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7471871 | rep = 3
+n=400, N=200 | empirical mean (should be ~0): -0.0172883 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7503596 | rep = 4
+n=400, N=200 | empirical mean (should be ~0): 0.00244494 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7804929 | rep = 5
+Average eval for n=400, N=200 over 5 reps = 1.7570365
+n=400, N=400 | empirical mean (should be ~0): -0.00108235 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7469395 | rep = 1
+n=400, N=400 | empirical mean (should be ~0): 0.000620819 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7476759 | rep = 2
+n=400, N=400 | empirical mean (should be ~0): 0.00331 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.754431 | rep = 3
+n=400, N=400 | empirical mean (should be ~0): -0.00748103 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7413537 | rep = 4
+n=400, N=400 | empirical mean (should be ~0): -0.00365059 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7588551 | rep = 5
+Average eval for n=400, N=400 over 5 reps = 1.749851
+n=400, N=600 | empirical mean (should be ~0): -0.0123062 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7445334 | rep = 1
+n=400, N=600 | empirical mean (should be ~0): -0.00547347 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7407539 | rep = 2
+n=400, N=600 | empirical mean (should be ~0): 0.00370609 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7852539 | rep = 3
+n=400, N=600 | empirical mean (should be ~0): 0.00252009 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7677356 | rep = 4
+n=400, N=600 | empirical mean (should be ~0): 0.00026078 | expectation: 1.9901
+Eval n=400, NN=10000 | out-of-sample obj = 1.7621712 | rep = 5
+Average eval for n=400, N=600 over 5 reps = 1.7600896
+n=500, N=200 | empirical mean (should be ~0): 0.00496765 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8819496 | rep = 1
+n=500, N=200 | empirical mean (should be ~0): -0.0154837 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.82289 | rep = 2
+n=500, N=200 | empirical mean (should be ~0): -0.00525386 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8970023 | rep = 3
+n=500, N=200 | empirical mean (should be ~0): -0.00266798 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8587991 | rep = 4
+n=500, N=200 | empirical mean (should be ~0): -0.00576365 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8560986 | rep = 5
+Average eval for n=500, N=200 over 5 reps = 1.8633479
+n=500, N=400 | empirical mean (should be ~0): -0.00539718 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.9064988 | rep = 1
+n=500, N=400 | empirical mean (should be ~0): -0.0151263 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.9252532 | rep = 2
+n=500, N=400 | empirical mean (should be ~0): -0.00573779 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.897847 | rep = 3
+n=500, N=400 | empirical mean (should be ~0): -0.00712337 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8605262 | rep = 4
+n=500, N=400 | empirical mean (should be ~0): -0.00664119 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8603067 | rep = 5
+Average eval for n=500, N=400 over 5 reps = 1.8900864
+n=500, N=600 | empirical mean (should be ~0): -0.000882436 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 2.0564392 | rep = 1
+n=500, N=600 | empirical mean (should be ~0): -0.010734 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8334611 | rep = 2
+n=500, N=600 | empirical mean (should be ~0): 0.00145746 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8298468 | rep = 3
+n=500, N=600 | empirical mean (should be ~0): -0.00341645 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 2.2472032 | rep = 4
+n=500, N=600 | empirical mean (should be ~0): 0.00284598 | expectation: 1.9901
+Eval n=500, NN=10000 | out-of-sample obj = 1.8245701 | rep = 5
+Average eval for n=500, N=600 over 5 reps = 1.9583041
+n=600, N=200 | empirical mean (should be ~0): 0.00390287 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8597527 | rep = 1
+n=600, N=200 | empirical mean (should be ~0): 0.00311787 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8922962 | rep = 2
+n=600, N=200 | empirical mean (should be ~0): -0.00339935 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8686839 | rep = 3
+n=600, N=200 | empirical mean (should be ~0): 0.00234198 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.9372513 | rep = 4
+n=600, N=200 | empirical mean (should be ~0): -0.00637739 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8214243 | rep = 5
+Average eval for n=600, N=200 over 5 reps = 1.8758817
+n=600, N=400 | empirical mean (should be ~0): -0.00886103 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8380992 | rep = 1
+n=600, N=400 | empirical mean (should be ~0): 0.00268354 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8420298 | rep = 2
+n=600, N=400 | empirical mean (should be ~0): 0.00271849 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.7965785 | rep = 3
+n=600, N=400 | empirical mean (should be ~0): 0.00174594 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8624967 | rep = 4
+n=600, N=400 | empirical mean (should be ~0): 0.0541953 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 2.5872753 | rep = 5
+Average eval for n=600, N=400 over 5 reps = 1.9852959
+n=600, N=600 | empirical mean (should be ~0): 0.000920161 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8762441 | rep = 1
+n=600, N=600 | empirical mean (should be ~0): 0.00188645 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 2.1073433 | rep = 2
+n=600, N=600 | empirical mean (should be ~0): 0.00669608 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8485233 | rep = 3
+n=600, N=600 | empirical mean (should be ~0): 0.0056674 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8488967 | rep = 4
+n=600, N=600 | empirical mean (should be ~0): -0.0114725 | expectation: 1.9901
+Eval n=600, NN=10000 | out-of-sample obj = 1.8528229 | rep = 5
+Average eval for n=600, N=600 over 5 reps = 1.9067661
+n=700, N=200 | empirical mean (should be ~0): 0.000320207 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7924145 | rep = 1
+n=700, N=200 | empirical mean (should be ~0): 0.00515575 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.93716 | rep = 2
+n=700, N=200 | empirical mean (should be ~0): 0.00612697 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.8490269 | rep = 3
+n=700, N=200 | empirical mean (should be ~0): -0.00568283 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.8616317 | rep = 4
+n=700, N=200 | empirical mean (should be ~0): -0.00575294 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.8129334 | rep = 5
+Average eval for n=700, N=200 over 5 reps = 1.8506333
+n=700, N=400 | empirical mean (should be ~0): -0.00131874 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.8456838 | rep = 1
+n=700, N=400 | empirical mean (should be ~0): -0.00986786 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7767138 | rep = 2
+n=700, N=400 | empirical mean (should be ~0): 0.00164798 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.8238222 | rep = 3
+n=700, N=400 | empirical mean (should be ~0): -0.00307495 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7835065 | rep = 4
+n=700, N=400 | empirical mean (should be ~0): 0.000490537 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7783016 | rep = 5
+Average eval for n=700, N=400 over 5 reps = 1.8016056
+n=700, N=600 | empirical mean (should be ~0): -0.00395189 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.8279053 | rep = 1
+n=700, N=600 | empirical mean (should be ~0): -0.00725894 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7762386 | rep = 2
+n=700, N=600 | empirical mean (should be ~0): 0.0010709 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7962739 | rep = 3
+n=700, N=600 | empirical mean (should be ~0): -0.00276666 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7929195 | rep = 4
+n=700, N=600 | empirical mean (should be ~0): -0.00513868 | expectation: 1.9901
+Eval n=700, NN=10000 | out-of-sample obj = 1.7870203 | rep = 5
+Average eval for n=700, N=600 over 5 reps = 1.7960715
+n=800, N=200 | empirical mean (should be ~0): -0.0176245 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8729044 | rep = 1
+n=800, N=200 | empirical mean (should be ~0): 0.00285539 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8156353 | rep = 2
+n=800, N=200 | empirical mean (should be ~0): -0.00272885 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8293236 | rep = 3
+n=800, N=200 | empirical mean (should be ~0): 0.0202261 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 2.4422767 | rep = 4
+n=800, N=200 | empirical mean (should be ~0): -4.83408e-05 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.858894 | rep = 5
+Average eval for n=800, N=200 over 5 reps = 1.9638068
+n=800, N=400 | empirical mean (should be ~0): -0.0130786 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.7916152 | rep = 1
+n=800, N=400 | empirical mean (should be ~0): -0.000815814 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8013285 | rep = 2
+n=800, N=400 | empirical mean (should be ~0): 0.00162511 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8077895 | rep = 3
+n=800, N=400 | empirical mean (should be ~0): -0.00342126 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8233857 | rep = 4
+n=800, N=400 | empirical mean (should be ~0): 0.000887094 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.880334 | rep = 5
+Average eval for n=800, N=400 over 5 reps = 1.8208906
+n=800, N=600 | empirical mean (should be ~0): -0.00313684 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8135649 | rep = 1
+n=800, N=600 | empirical mean (should be ~0): 0.00165906 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 2.0547456 | rep = 2
+n=800, N=600 | empirical mean (should be ~0): 0.00352876 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8190091 | rep = 3
+n=800, N=600 | empirical mean (should be ~0): -0.00318952 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8001247 | rep = 4
+n=800, N=600 | empirical mean (should be ~0): -0.0062641 | expectation: 1.9901
+Eval n=800, NN=10000 | out-of-sample obj = 1.8080882 | rep = 5
+Average eval for n=800, N=600 over 5 reps = 1.8591065
+n=900, N=200 | empirical mean (should be ~0): 0.00628961 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7612946 | rep = 1
+n=900, N=200 | empirical mean (should be ~0): 0.00614879 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7523924 | rep = 2
+n=900, N=200 | empirical mean (should be ~0): -0.00450407 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7426277 | rep = 3
+n=900, N=200 | empirical mean (should be ~0): -0.00405954 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7443064 | rep = 4
+n=900, N=200 | empirical mean (should be ~0): 0.00525738 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7652367 | rep = 5
+Average eval for n=900, N=200 over 5 reps = 1.7531716
+n=900, N=400 | empirical mean (should be ~0): 0.00322594 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.8199471 | rep = 1
+n=900, N=400 | empirical mean (should be ~0): -0.00254718 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7638242 | rep = 2
+n=900, N=400 | empirical mean (should be ~0): 0.00763372 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7859545 | rep = 3
+n=900, N=400 | empirical mean (should be ~0): -0.00432691 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7420493 | rep = 4
+n=900, N=400 | empirical mean (should be ~0): 0.00439411 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7720939 | rep = 5
+Average eval for n=900, N=400 over 5 reps = 1.7767738
+n=900, N=600 | empirical mean (should be ~0): -0.00373422 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.8965979 | rep = 1
+n=900, N=600 | empirical mean (should be ~0): -0.00760769 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7379538 | rep = 2
+n=900, N=600 | empirical mean (should be ~0): 0.00293858 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7713554 | rep = 3
+n=900, N=600 | empirical mean (should be ~0): 0.00672404 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.8443862 | rep = 4
+n=900, N=600 | empirical mean (should be ~0): -0.00236906 | expectation: 1.9901
+Eval n=900, NN=10000 | out-of-sample obj = 1.7499791 | rep = 5
+Average eval for n=900, N=600 over 5 reps = 1.8000545
+n=1000, N=200 | empirical mean (should be ~0): 0.00173484 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7685032 | rep = 1
+n=1000, N=200 | empirical mean (should be ~0): 0.00265731 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7799951 | rep = 2
+n=1000, N=200 | empirical mean (should be ~0): -0.00581033 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7848442 | rep = 3
+n=1000, N=200 | empirical mean (should be ~0): -0.00173899 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.782938 | rep = 4
+n=1000, N=200 | empirical mean (should be ~0): -0.00348385 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7848209 | rep = 5
+Average eval for n=1000, N=200 over 5 reps = 1.7802203
+n=1000, N=400 | empirical mean (should be ~0): -0.0124585 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7507318 | rep = 1
+n=1000, N=400 | empirical mean (should be ~0): -0.00232084 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7750298 | rep = 2
+n=1000, N=400 | empirical mean (should be ~0): -9.96264e-05 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7881178 | rep = 3
+n=1000, N=400 | empirical mean (should be ~0): -0.00415226 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.800725 | rep = 4
+n=1000, N=400 | empirical mean (should be ~0): 0.0134307 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.9182542 | rep = 5
+Average eval for n=1000, N=400 over 5 reps = 1.8065717
+n=1000, N=600 | empirical mean (should be ~0): -0.000296175 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8270569 | rep = 1
+n=1000, N=600 | empirical mean (should be ~0): 0.00135493 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7867767 | rep = 2
+n=1000, N=600 | empirical mean (should be ~0): -0.000603807 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.7719345 | rep = 3
+n=1000, N=600 | empirical mean (should be ~0): 0.000770447 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8395993 | rep = 4
+n=1000, N=600 | empirical mean (should be ~0): 0.00862485 | expectation: 1.9901
+Eval n=1000, NN=10000 | out-of-sample obj = 1.8144551 | rep = 5
+Average eval for n=1000, N=600 over 5 reps = 1.8079645
+n=1500, N=200 | empirical mean (should be ~0): -0.00525081 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8688779 | rep = 1
+n=1500, N=200 | empirical mean (should be ~0): -0.00813689 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8366668 | rep = 2
+n=1500, N=200 | empirical mean (should be ~0): -0.000218486 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8703837 | rep = 3
+n=1500, N=200 | empirical mean (should be ~0): -0.00485028 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8633944 | rep = 4
+n=1500, N=200 | empirical mean (should be ~0): -0.0165784 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8562403 | rep = 5
+Average eval for n=1500, N=200 over 5 reps = 1.8591126
+n=1500, N=400 | empirical mean (should be ~0): -0.00211657 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8503536 | rep = 1
+n=1500, N=400 | empirical mean (should be ~0): 0.0022925 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8153178 | rep = 2
+n=1500, N=400 | empirical mean (should be ~0): -0.00143102 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.843368 | rep = 3
+n=1500, N=400 | empirical mean (should be ~0): -0.000153696 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 2.0048285 | rep = 4
+n=1500, N=400 | empirical mean (should be ~0): 0.00387188 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.9553576 | rep = 5
+Average eval for n=1500, N=400 over 5 reps = 1.8938451
+n=1500, N=600 | empirical mean (should be ~0): -0.00416734 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8713313 | rep = 1
+n=1500, N=600 | empirical mean (should be ~0): -0.00739589 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8126062 | rep = 2
+n=1500, N=600 | empirical mean (should be ~0): -0.000109031 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.9784358 | rep = 3
+n=1500, N=600 | empirical mean (should be ~0): -0.00191532 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8422767 | rep = 4
+n=1500, N=600 | empirical mean (should be ~0): -0.00126573 | expectation: 1.9901
+Eval n=1500, NN=10000 | out-of-sample obj = 1.8202508 | rep = 5
+Average eval for n=1500, N=600 over 5 reps = 1.8649802
+n=2000, N=200 | empirical mean (should be ~0): 0.00447903 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 2.3044787 | rep = 1
+n=2000, N=200 | empirical mean (should be ~0): -0.00520268 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9389434 | rep = 2
+n=2000, N=200 | empirical mean (should be ~0): -0.000135943 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8966627 | rep = 3
+n=2000, N=200 | empirical mean (should be ~0): 0.00419232 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 2.0873653 | rep = 4
+n=2000, N=200 | empirical mean (should be ~0): 0.000794252 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9014324 | rep = 5
+Average eval for n=2000, N=200 over 5 reps = 2.0257765
+n=2000, N=400 | empirical mean (should be ~0): -0.00527852 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9714179 | rep = 1
+n=2000, N=400 | empirical mean (should be ~0): -0.00561568 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.887736 | rep = 2
+n=2000, N=400 | empirical mean (should be ~0): 0.00157635 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9242845 | rep = 3
+n=2000, N=400 | empirical mean (should be ~0): -0.00188514 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8698227 | rep = 4
+n=2000, N=400 | empirical mean (should be ~0): 0.00834795 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.911387 | rep = 5
+Average eval for n=2000, N=400 over 5 reps = 1.9129296
+n=2000, N=600 | empirical mean (should be ~0): 0.00191429 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9267975 | rep = 1
+n=2000, N=600 | empirical mean (should be ~0): 0.00458561 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.9251962 | rep = 2
+n=2000, N=600 | empirical mean (should be ~0): -0.000165905 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8608508 | rep = 3
+n=2000, N=600 | empirical mean (should be ~0): -0.00198613 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8811196 | rep = 4
+n=2000, N=600 | empirical mean (should be ~0): -0.00039465 | expectation: 1.9901
+Eval n=2000, NN=10000 | out-of-sample obj = 1.8989197 | rep = 5
+Average eval for n=2000, N=600 over 5 reps = 1.8985768
+n=5000, N=200 | empirical mean (should be ~0): -0.000886698 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.0365849 | rep = 1
+n=5000, N=200 | empirical mean (should be ~0): 0.0030768 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 1.9733118 | rep = 2
+n=5000, N=200 | empirical mean (should be ~0): -0.00526982 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 1.913425 | rep = 3
+n=5000, N=200 | empirical mean (should be ~0): -0.00196678 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.3701031 | rep = 4
+n=5000, N=200 | empirical mean (should be ~0): -0.00616078 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.0830372 | rep = 5
+Average eval for n=5000, N=200 over 5 reps = 2.0752924
+n=5000, N=400 | empirical mean (should be ~0): -0.00266494 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 1.9204278 | rep = 1
+n=5000, N=400 | empirical mean (should be ~0): 0.0016248 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.230459 | rep = 2
+n=5000, N=400 | empirical mean (should be ~0): 0.00641828 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.1917347 | rep = 3
+n=5000, N=400 | empirical mean (should be ~0): 0.00289639 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.0423623 | rep = 4
+n=5000, N=400 | empirical mean (should be ~0): -0.00297301 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 1.9464326 | rep = 5
+Average eval for n=5000, N=400 over 5 reps = 2.0662833
+n=5000, N=600 | empirical mean (should be ~0): 0.0016799 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.3979333 | rep = 1
+n=5000, N=600 | empirical mean (should be ~0): -0.00202383 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.0187599 | rep = 2
+n=5000, N=600 | empirical mean (should be ~0): -0.00084067 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 1.92582 | rep = 3
+n=5000, N=600 | empirical mean (should be ~0): -0.00211862 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.1151206 | rep = 4
+n=5000, N=600 | empirical mean (should be ~0): 0.00401558 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 2.1290546 | rep = 5
+Average eval for n=5000, N=600 over 5 reps = 2.1173377
+Saved results to experiment_results_replications_SMD_1point5_20251018_204019.mat
