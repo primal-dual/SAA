@@ -625,3 +625,22 @@ n=5000, N=600 | empirical mean (should be ~0): 0.00093647 | expectation: 1.9901
 Eval n=5000, NN=10000 | out-of-sample obj = 54.69518 | rep = 2
 Elapsed time is 3.228129 seconds.
 n=5000, N=600 | empirical mean (should be ~0): -0.0010523 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 55.935925 | rep = 3
+Elapsed time is 3.223338 seconds.
+n=5000, N=600 | empirical mean (should be ~0): 0.000169993 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 53.119897 | rep = 4
+Elapsed time is 3.341587 seconds.
+n=5000, N=600 | empirical mean (should be ~0): -0.00303655 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 53.435635 | rep = 5
+Elapsed time is 3.223222 seconds.
+Average eval for n=5000, N=600 over 5 reps = 54.346195
+Error using save
+Unable to write to file
+'/blue/yu.yang1/haoran.liu/SAA_heavy_tail/experiment_results_replications_1point5_shrink_20251019_194013.mat'
+because it appears to be corrupt.
+
+Error in SAA_varyingN_replication_1point5_new_shrink (line 203)
+
+Error in run (line 112)
+evalin('caller', strcat(scriptStem, ';'));
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

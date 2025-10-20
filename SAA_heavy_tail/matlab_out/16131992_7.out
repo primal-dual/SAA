@@ -610,3 +610,13 @@ n=5000, N=400 | empirical mean (should be ~0): -0.000224433 | expectation: 1.990
 Eval n=5000, NN=10000 | out-of-sample obj = 59.786154 | rep = 3
 Elapsed time is 3.131645 seconds.
 n=5000, N=400 | empirical mean (should be ~0): 0.000283197 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 60.014972 | rep = 4
+Elapsed time is 3.249801 seconds.
+n=5000, N=400 | empirical mean (should be ~0): 0.00363684 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 58.776821 | rep = 5
+Elapsed time is 3.364657 seconds.
+Average eval for n=5000, N=400 over 5 reps = 59.150248
+n=5000, N=600 | empirical mean (should be ~0): 0.00616045 | expectation: 1.9901
+Eval n=5000, NN=10000 | out-of-sample obj = 58.799379 | rep = 1
+Elapsed time is 3.338345 seconds.
+n=5000, N=600 | empirical mean (should be ~0): 0.00093647 | expectation: 1.9901
